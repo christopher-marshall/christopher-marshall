@@ -37,38 +37,19 @@ Open to senior technical writing and knowledge management roles, especially in c
 
 ## 📚 Selected documentation work
 
-| Project | What I did | |
+| Project | What I did | Link |
 |---|---|---|
-| **Shoreline** | Migrated 200+ pages from Freshdesk to Docusaurus in under 12 months, restructuring the content along Diátaxis lines | [Case study](https://christopher-marshall.github.io/docs/projects/shoreline) |
+| **Shoreline** | Migrated 200+ pages from Freshdesk to Docusaurus in under 12 months, restructuring the content along Diátaxis lines. | [Case study](https://christopher-marshall.github.io/docs/projects/shoreline) |
 | **super.AI** | Wrote ML data-platform docs from scratch: ~100 pages, including an API reference covering ~30 endpoints, video guides, concept pages, and getting started guides. | [Case study](https://christopher-marshall.github.io/docs/projects/superai) |
-| **Adjust Help Center** | Built the client-facing help center in Salesforce and the style standards behind it | [Case study](https://christopher-marshall.github.io/docs/projects/adjust-help-center) |
-| **Adjust features** | Documented 10 major and 50+ minor releases, plus UI copy | [Case study](https://christopher-marshall.github.io/docs/projects/adjust-new-features) |
+| **Adjust Help Center** | Built the client-facing help center in Salesforce and the style standards behind it. | [Case study](https://christopher-marshall.github.io/docs/projects/adjust-help-center) |
+| **Adjust features** | Documented 10 major and 50+ minor releases, plus UI copy. | [Case study](https://christopher-marshall.github.io/docs/projects/adjust-new-features) |
 
 ## 🧰 Toolkit
 
-**Docs**&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white)
-![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white)
-![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white)
-![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?style=flat-square&logo=readme&logoColor=white)
-![Swagger](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square)
-
-**Workflow**&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**Data**&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+- **Docs:** Markdown, MDX, Docusaurus, ReadMe, OpenAPI/Swagger, Confluence, Salesforce
+- **Workflow:** Git, GitHub Actions, Jira, Figma
+- **Data:** Python, SQL, BigQuery, Tableau, Streamlit, Google Analytics
 
 ## 🎸 Off the clock
 
-Reading philosophy, poetry and novels · fingerstyle acoustic guitar in the John Fahey vein · running (one marathon so far)
+Reading philosophy, poetry, and novels · fingerstyle acoustic guitar in the John Fahey vein · running (one marathon so far)
