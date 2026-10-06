@@ -10,7 +10,7 @@
   <a href="https://christopher-marshall.github.io/christopher-marshall-cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-555?style=flat-square&logo=readthedocs&logoColor=white"></a>
 </p>
 
-I'm a technical writer with 10 years of experience turning complex products into documentation people can use. I work docs-as-code (Markdown, Git, CI/CD) with the [Diátaxis](https://diataxis.fr/) framework, and I use SQL and Python to find out what readers need and where the docs fall short.
+I'm a technical writer with 10 years of experience turning complex products into user-friendly documentation. I work in docs-as-code (Markdown, Git, CI/CD) with the [Diátaxis](https://diataxis.fr/) framework, and I use SQL and Python to find out what readers need and where the docs fall short.
 
 Open to senior technical writing and knowledge management roles, especially in climate tech, AI, and mission-driven organizations.
 
@@ -27,8 +27,6 @@ Open to senior technical writing and knowledge management roles, especially in c
 - **Structure**: headings and internal links
 - **Ownership**: authors and commit counts
 
-There's no single health score, on purpose: the weighting would be arbitrary and would end up deciding the result.
-
 [**Live dashboard →**](https://dochealth.streamlit.app/) &nbsp;·&nbsp; [Case study →](https://christopher-marshall.github.io/docs/projects/dochealth) &nbsp;·&nbsp; [Repo →](https://github.com/christopher-marshall/dochealth)
 
 </td>
@@ -39,8 +37,8 @@ There's no single health score, on purpose: the weighting would be arbitrary and
 
 | Project | What I did | |
 |---|---|---|
-| **Shoreline** | Migrated 200+ pages from Freshdesk to Docusaurus in 12 months, restructuring the content along Diátaxis lines | [Case study](https://christopher-marshall.github.io/docs/projects/shoreline) |
-| **super.AI** | Wrote ML data-platform docs from scratch: ~100 pages, including an API reference covering ~30 endpoints | [Case study](https://christopher-marshall.github.io/docs/projects/superai) |
+| **Shoreline** | Migrated 200+ pages from Freshdesk to Docusaurus in under 12 months, restructuring the content along Diátaxis lines | [Case study](https://christopher-marshall.github.io/docs/projects/shoreline) |
+| **super.AI** | Wrote ML data-platform docs from scratch: ~100 pages, including an API reference covering ~30 endpoints, video guides, concept pages, and getting started guides. | [Case study](https://christopher-marshall.github.io/docs/projects/superai) |
 | **Adjust Help Center** | Built the client-facing help center in Salesforce and the style standards behind it | [Case study](https://christopher-marshall.github.io/docs/projects/adjust-help-center) |
 | **Adjust features** | Documented 10 major and 50+ minor releases, plus UI copy | [Case study](https://christopher-marshall.github.io/docs/projects/adjust-new-features) |
 
