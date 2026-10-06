@@ -71,3 +71,5 @@ In the snapshot above, run on Docusaurus's own docs, it flags pages that look ma
 ## Off the clock
 
 Reading philosophy, poetry, and novels · fingerstyle acoustic guitar in the John Fahey vein · running (one marathon so far)
+
+<img src="https://christopher-marshall.goatcounter.com/count?p=/github-profile&amp;t=GitHub+profile" alt="" width="1" height="1">
