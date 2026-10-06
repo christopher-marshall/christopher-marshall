@@ -4,13 +4,13 @@
 </picture>
 
 <p>
-  <a href="https://christopher-marshall.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-christopher--marshall.github.io-00853c?style=flat-square&logo=docusaurus&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/christopher-marshall-957772a0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square"></a>
-  <a href="mailto:christopher.marshall.works@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get_in_touch-555?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://christopher-marshall.github.io/christopher-marshall-cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-555?style=flat-square&logo=readthedocs&logoColor=white"></a>
+  <a href="https://christopher-marshall.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00853c?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/christopher-marshall-957772a0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square"></a>
+  <a href="mailto:christopher.marshall.works@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-555?style=flat-square"></a>
+  <a href="https://christopher-marshall.github.io/christopher-marshall-cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-555?style=flat-square"></a>
 </p>
 
-I'm a technical writer with 10 years of experience turning complex products into user-friendly documentation. I work in docs-as-code (Markdown, Git, CI/CD) with the [Diátaxis](https://diataxis.fr/) framework, and I use SQL and Python to find out what readers need and where the docs fall short.
+I'm a technical writer with 10 years of experience in docs-as-code (Markdown, Git, CI/CD) and the [Diátaxis](https://diataxis.fr/) framework. I use SQL and Python to measure what readers need and where the docs fall short, then fix it.
 
 Open to senior technical writing and knowledge management roles, especially in climate tech, AI, and mission-driven organizations.
 
@@ -46,9 +46,28 @@ Open to senior technical writing and knowledge management roles, especially in c
 
 ## 🧰 Toolkit
 
-- **Docs:** Markdown, MDX, Docusaurus, ReadMe, OpenAPI/Swagger, Confluence, Salesforce
-- **Workflow:** Git, GitHub Actions, Jira, Figma
-- **Data:** Python, SQL, BigQuery, Tableau, Streamlit, Google Analytics
+**Docs**&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white)
+![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white)
+![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?style=flat-square&logo=readme&logoColor=white)
+![Swagger](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square)
+
+**Workflow**&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Data**&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
 ## 🎸 Off the clock
 

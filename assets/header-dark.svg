@@ -1,34 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Christopher Marshall, Senior Technical Writer, Berlin">
-  <defs>
-    <radialGradient id="glow" cx="50%" cy="0%" r="65%" gradientTransform="translate(0.5 0) scale(1 2.2) translate(-0.5 0)">
-      <stop offset="0" stop-color="#4ade80" stop-opacity="0.18"/>
-      <stop offset="1" stop-color="#4ade80" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1000" height="230" rx="12" fill="#111815"/>
-  <rect width="1000" height="230" rx="12" fill="url(#glow)"/>
-  <rect x="0.5" y="0.5" width="999" height="229" rx="12" fill="none" stroke="#24302a"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180" role="img" aria-label="Christopher Marshall, Senior Technical Writer, Berlin">
+  <text x="0" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#4ade80">docs-as-code + data</text>
+  <text x="0" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f0f6fc">Christopher Marshall</text>
+  <text x="0" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#9198a1">Senior Technical Writer · Berlin</text>
 
-  <!-- monogram -->
-  <rect x="48" y="52" width="56" height="56" rx="10" fill="#ffffff"/>
-  <text x="76" y="89" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#111815">CM</text>
-
-  <text x="48" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff">Christopher Marshall</text>
-  <text x="48" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#a3b5ab">Senior Technical Writer · Berlin</text>
-  <text x="124" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#4ade80">$ docs-as-code + data</text>
-
-  <!-- doc page -->
-  <rect x="660" y="40" width="180" height="150" rx="8" fill="#151d19" stroke="#24302a"/>
-  <text x="678" y="68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#1eab52">#</text>
-  <rect x="694" y="58" width="96" height="10" rx="3" fill="#ffffff" opacity="0.85"/>
-  <rect x="678" y="86" width="144" height="7" rx="3" fill="#33423a"/>
-  <rect x="678" y="101" width="128" height="7" rx="3" fill="#33423a"/>
-  <rect x="678" y="116" width="138" height="7" rx="3" fill="#33423a"/>
-  <rect x="678" y="136" width="144" height="34" rx="4" fill="#111815" stroke="#24302a"/>
-  <rect x="688" y="146" width="60" height="6" rx="3" fill="#4ade80" opacity="0.8"/>
-  <rect x="688" y="158" width="92" height="6" rx="3" fill="#a3b5ab" opacity="0.6"/>
-
-  <!-- chart -->
-  <line x1="858" y1="176.5" x2="974" y2="176.5" stroke="#24302a"/>
-  <rect x="866" y="138" width="12" height="38" rx="2" fill="#1eab52" opacity="0.55"/><rect x="884" y="120" width="12" height="56" rx="2" fill="#1eab52" opacity="0.55"/><rect x="902" y="146" width="12" height="30" rx="2" fill="#1eab52" opacity="0.55"/><rect x="920" y="106" width="12" height="70" rx="2" fill="#1eab52" opacity="0.55"/><rect x="938" y="128" width="12" height="48" rx="2" fill="#1eab52" opacity="0.55"/><rect x="956" y="92" width="12" height="84" rx="2" fill="#4ade80" opacity="1"/>
+  <!-- page-freshness heatmap -->
+  <rect x="660" y="29" width="14" height="14" rx="3" fill="#1b2420"/><rect x="678" y="29" width="14" height="14" rx="3" fill="#14532d"/><rect x="696" y="29" width="14" height="14" rx="3" fill="#14532d"/><rect x="714" y="29" width="14" height="14" rx="3" fill="#14532d"/><rect x="732" y="29" width="14" height="14" rx="3" fill="#14532d"/><rect x="750" y="29" width="14" height="14" rx="3" fill="#1a7f43"/><rect x="768" y="29" width="14" height="14" rx="3" fill="#4ade80"/><rect x="786" y="29" width="14" height="14" rx="3" fill="#4ade80"/><rect x="660" y="47" width="14" height="14" rx="3" fill="#14532d"/><rect x="678" y="47" width="14" height="14" rx="3" fill="#14532d"/><rect x="696" y="47" width="14" height="14" rx="3" fill="#14532d"/><rect x="714" y="47" width="14" height="14" rx="3" fill="#1a7f43"/><rect x="732" y="47" width="14" height="14" rx="3" fill="#1b2420"/><rect x="750" y="47" width="14" height="14" rx="3" fill="#2fb563"/><rect x="768" y="47" width="14" height="14" rx="3" fill="#2fb563"/><rect x="786" y="47" width="14" height="14" rx="3" fill="#4ade80"/><rect x="660" y="65" width="14" height="14" rx="3" fill="#1b2420"/><rect x="678" y="65" width="14" height="14" rx="3" fill="#1b2420"/><rect x="696" y="65" width="14" height="14" rx="3" fill="#1b2420"/><rect x="714" y="65" width="14" height="14" rx="3" fill="#14532d"/><rect x="732" y="65" width="14" height="14" rx="3" fill="#1a7f43"/><rect x="750" y="65" width="14" height="14" rx="3" fill="#1a7f43"/><rect x="768" y="65" width="14" height="14" rx="3" fill="#2fb563"/><rect x="786" y="65" width="14" height="14" rx="3" fill="#2fb563"/><rect x="660" y="83" width="14" height="14" rx="3" fill="#1b2420"/><rect x="678" y="83" width="14" height="14" rx="3" fill="#14532d"/><rect x="696" y="83" width="14" height="14" rx="3" fill="#1b2420"/><rect x="714" y="83" width="14" height="14" rx="3" fill="#2fb563"/><rect x="732" y="83" width="14" height="14" rx="3" fill="#2fb563"/><rect x="750" y="83" width="14" height="14" rx="3" fill="#4ade80"/><rect x="768" y="83" width="14" height="14" rx="3" fill="#1a7f43"/><rect x="786" y="83" width="14" height="14" rx="3" fill="#1a7f43"/><rect x="660" y="101" width="14" height="14" rx="3" fill="#1b2420"/><rect x="678" y="101" width="14" height="14" rx="3" fill="#1b2420"/><rect x="696" y="101" width="14" height="14" rx="3" fill="#1a7f43"/><rect x="714" y="101" width="14" height="14" rx="3" fill="#1a7f43"/><rect x="732" y="101" width="14" height="14" rx="3" fill="#14532d"/><rect x="750" y="101" width="14" height="14" rx="3" fill="#14532d"/><rect x="768" y="101" width="14" height="14" rx="3" fill="#1a7f43"/><rect x="786" y="101" width="14" height="14" rx="3" fill="#4ade80"/><rect x="660" y="119" width="14" height="14" rx="3" fill="#1b2420"/><rect x="678" y="119" width="14" height="14" rx="3" fill="#14532d"/><rect x="696" y="119" width="14" height="14" rx="3" fill="#14532d"/><rect x="714" y="119" width="14" height="14" rx="3" fill="#1b2420"/><rect x="732" y="119" width="14" height="14" rx="3" fill="#1a7f43"/><rect x="750" y="119" width="14" height="14" rx="3" fill="#4ade80"/><rect x="768" y="119" width="14" height="14" rx="3" fill="#14532d"/><rect x="786" y="119" width="14" height="14" rx="3" fill="#2fb563"/><rect x="660" y="137" width="14" height="14" rx="3" fill="#1b2420"/><rect x="678" y="137" width="14" height="14" rx="3" fill="#1b2420"/><rect x="696" y="137" width="14" height="14" rx="3" fill="#1a7f43"/><rect x="714" y="137" width="14" height="14" rx="3" fill="#14532d"/><rect x="732" y="137" width="14" height="14" rx="3" fill="#1b2420"/><rect x="750" y="137" width="14" height="14" rx="3" fill="#2fb563"/><rect x="768" y="137" width="14" height="14" rx="3" fill="#4ade80"/><rect x="786" y="137" width="14" height="14" rx="3" fill="#4ade80"/>
 </svg>
