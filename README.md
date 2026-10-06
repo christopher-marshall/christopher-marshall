@@ -4,10 +4,10 @@
 </picture>
 
 <p>
-  <a href="https://christopher-marshall.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00853c?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/christopher-marshall-957772a0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square"></a>
-  <a href="mailto:christopher.marshall.works@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-555?style=flat-square"></a>
-  <a href="https://christopher-marshall.github.io/christopher-marshall-cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-555?style=flat-square"></a>
+  <a href="https://christopher-marshall.github.io/"><img height="30" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00853c?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/christopher-marshall-957772a0/"><img height="30" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square"></a>
+  <a href="mailto:christopher.marshall.works@gmail.com"><img height="30" alt="Email" src="https://img.shields.io/badge/Email-555?style=flat-square"></a>
+  <a href="https://christopher-marshall.github.io/christopher-marshall-cv.pdf"><img height="30" alt="CV" src="https://img.shields.io/badge/CV-555?style=flat-square"></a>
 </p>
 
 I'm a technical writer with 10 years of experience in docs-as-code (Markdown, Git, CI/CD) and the [Diátaxis](https://diataxis.fr/) framework. I use SQL and Python to measure what readers need and where the docs fall short, then fix it.
