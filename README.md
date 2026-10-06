@@ -16,13 +16,14 @@ Open to senior technical writing and knowledge management roles, especially in c
 
 ## 🩺 Featured: dochealth
 
-<table>
-<tr>
-<td>
+<a href="https://dochealth.streamlit.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dochealth-dashboard-dark.png">
+    <img alt="The dochealth dashboard, showing page counts, median staleness, and a table of pages to review first" src="assets/dochealth-dashboard.png" width="100%">
+  </picture>
+</a>
 
-![The dochealth dashboard](/assets/dochealth-dashboard.png)
-
-**[dochealth](https://github.com/christopher-marshall/dochealth)** is a Python tool and Streamlit dashboard that measures the health of any docs-as-code repository. It reads git history and Markdown to report, page by page:
+**dochealth** is a Python tool and Streamlit dashboard that measures the health of any docs-as-code repository. It reads git history and Markdown to report, page by page:
 
 - **Freshness**: days since last content change, median line age
 - **Readability**: Flesch reading ease, word count, code density
@@ -31,16 +32,12 @@ Open to senior technical writing and knowledge management roles, especially in c
 
 [**Live dashboard →**](https://dochealth.streamlit.app/) &nbsp;·&nbsp; [Case study →](https://christopher-marshall.github.io/docs/projects/dochealth) &nbsp;·&nbsp; [Repo →](https://github.com/christopher-marshall/dochealth)
 
-</td>
-</tr>
-</table>
-
 ## 📚 Selected documentation work
 
 | Project | What I did | Link |
 |---|---|---|
 | **Shoreline** | Migrated 200+ pages from Freshdesk to Docusaurus in under 12 months, restructuring the content along Diátaxis lines. | [Case study](https://christopher-marshall.github.io/docs/projects/shoreline) |
-| **super.AI** | Wrote ML data-platform docs from scratch: ~100 pages, including an API reference covering ~30 endpoints, video guides, concept pages, and getting started guides. | [Case study](https://christopher-marshall.github.io/docs/projects/superai) |
+| **super.AI** | Wrote ML data-platform docs from scratch: 100+ pages, including an API reference covering 30+ endpoints, video guides, concept pages, and getting started guides. | [Case study](https://christopher-marshall.github.io/docs/projects/superai) |
 | **Adjust Help Center** | Built the client-facing help center in Salesforce and the style standards behind it. | [Case study](https://christopher-marshall.github.io/docs/projects/adjust-help-center) |
 | **Adjust features** | Documented 10 major and 50+ minor releases, plus UI copy. | [Case study](https://christopher-marshall.github.io/docs/projects/adjust-new-features) |
 
