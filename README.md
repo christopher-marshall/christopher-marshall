@@ -20,6 +20,8 @@ Open to senior technical writing and knowledge management roles, especially in c
 <tr>
 <td>
 
+![The dochealth dashboard](/assets/dochealth-dashboard.png)
+
 **[dochealth](https://github.com/christopher-marshall/dochealth)** is a Python tool and Streamlit dashboard that measures the health of any docs-as-code repository. It reads git history and Markdown to report, page by page:
 
 - **Freshness**: days since last content change, median line age
