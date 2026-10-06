@@ -7,14 +7,14 @@
   <a href="https://christopher-marshall.github.io/"><img height="30" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00853c?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/christopher-marshall-957772a0/"><img height="30" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square"></a>
   <a href="mailto:christopher.marshall.works@gmail.com"><img height="30" alt="Email" src="https://img.shields.io/badge/Email-555?style=flat-square"></a>
-  <a href="https://christopher-marshall.github.io/christopher-marshall-cv.pdf"><img height="30" alt="CV" src="https://img.shields.io/badge/CV-555?style=flat-square"></a>
+  <a href="https://christopher-marshall.github.io/christopher-marshall-cv.pdf"><img height="30" alt="CV" src="https://img.shields.io/badge/CV-00853c?style=flat-square"></a>
 </p>
 
 I'm a technical writer with 10 years of experience in docs-as-code (Markdown, Git, CI/CD) and the [Diátaxis](https://diataxis.fr/) framework. I use SQL and Python to measure what readers need and where the docs fall short, then fix it.
 
 Open to senior technical writing and knowledge management roles, especially in climate tech, AI, and mission-driven organizations.
 
-## 🩺 Featured: dochealth
+## Featured: dochealth
 
 <a href="https://dochealth.streamlit.app/">
   <picture>
@@ -30,18 +30,20 @@ Open to senior technical writing and knowledge management roles, especially in c
 - **Structure**: headings and internal links
 - **Ownership**: authors and commit counts
 
+In the snapshot above, run on Docusaurus's own docs, it flags pages that look maintained but aren't: each was edited in the last four months, yet its median line is more than four and a half years old.
+
 [**Live dashboard →**](https://dochealth.streamlit.app/) &nbsp;·&nbsp; [Case study →](https://christopher-marshall.github.io/docs/projects/dochealth) &nbsp;·&nbsp; [Repo →](https://github.com/christopher-marshall/dochealth)
 
-## 📚 Selected documentation work
+## Selected documentation work
 
-| Project | What I did | Link |
-|---|---|---|
-| **Shoreline** | Migrated 200+ pages from Freshdesk to Docusaurus in under 12 months, restructuring the content along Diátaxis lines. | [Case study](https://christopher-marshall.github.io/docs/projects/shoreline) |
-| **super.AI** | Wrote ML data-platform docs from scratch: 100+ pages, including an API reference covering 30+ endpoints, video guides, concept pages, and getting started guides. | [Case study](https://christopher-marshall.github.io/docs/projects/superai) |
-| **Adjust Help Center** | Built the client-facing help center in Salesforce and the style standards behind it. | [Case study](https://christopher-marshall.github.io/docs/projects/adjust-help-center) |
-| **Adjust features** | Documented 10 major and 50+ minor releases, plus UI copy. | [Case study](https://christopher-marshall.github.io/docs/projects/adjust-new-features) |
+| Project | What I did |
+|---|---|
+| [**Shoreline**](https://christopher-marshall.github.io/docs/projects/shoreline) | Migrated 200+ pages from Freshdesk to Docusaurus in under 12 months, restructuring the content along Diátaxis lines. Cut onboarding time from weeks to hours. |
+| [**super.AI**](https://christopher-marshall.github.io/docs/projects/superai) | Wrote ML data-platform docs from scratch: 100+ pages, including an API reference covering 30+ endpoints, video guides, concept pages, and getting started guides. |
+| [**Adjust Help Center**](https://christopher-marshall.github.io/docs/projects/adjust-help-center) | Built the client-facing help center in Salesforce and the style standards behind it. |
+| [**Adjust features**](https://christopher-marshall.github.io/docs/projects/adjust-new-features) | Documented 10 major and 50+ minor releases, plus UI copy. |
 
-## 🧰 Toolkit
+## Toolkit
 
 **Docs**&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white)
@@ -66,6 +68,6 @@ Open to senior technical writing and knowledge management roles, especially in c
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
-## 🎸 Off the clock
+## Off the clock
 
 Reading philosophy, poetry, and novels · fingerstyle acoustic guitar in the John Fahey vein · running (one marathon so far)
