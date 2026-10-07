@@ -46,27 +46,26 @@ In the snapshot above, run on Docusaurus's own docs, it flags pages that look ma
 ## Toolkit
 
 **Docs**&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white)
-![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white)
-![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white)
-![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?style=flat-square&logo=readme&logoColor=white)
-![Swagger](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square)
+![Markdown](https://img.shields.io/badge/Markdown-57606a?style=flat-square)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-57606a?style=flat-square)
+![ReadMe](https://img.shields.io/badge/ReadMe-57606a?style=flat-square)
+![OpenAPI / Swagger](https://img.shields.io/badge/OpenAPI_%2F_Swagger-57606a?style=flat-square)
+![Confluence](https://img.shields.io/badge/Confluence-57606a?style=flat-square)
+![Salesforce](https://img.shields.io/badge/Salesforce-57606a?style=flat-square)
 
 **Workflow**&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-57606a?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-57606a?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-57606a?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-57606a?style=flat-square)
 
 **Data**&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Python](https://img.shields.io/badge/Python-57606a?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-57606a?style=flat-square)
+![BigQuery](https://img.shields.io/badge/BigQuery-57606a?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-57606a?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-57606a?style=flat-square)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-57606a?style=flat-square)
 
 ## Off the clock
 
