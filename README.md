@@ -23,14 +23,14 @@ Open to senior technical writing and knowledge management roles, especially in c
   </picture>
 </a>
 
-**dochealth** is a Python tool and Streamlit dashboard that measures the health of any docs-as-code repository. It reads git history and Markdown to report, page by page:
+**dochealth** is a Python tool and Streamlit dashboard that measures the health of any docs-as-code repo. It reads git history and Markdown to provide a page-by-page report on the following:
 
 - **Freshness**: days since last content change, median line age
 - **Readability**: Flesch reading ease, word count, code density
 - **Structure**: headings and internal links
 - **Ownership**: authors and commit counts
 
-In the snapshot above, run on Docusaurus's own docs, it flags pages that look maintained but aren't: each was edited in the last four months, yet its median line is more than four and a half years old.
+The screenshot shows the output from a run over Docusaurus's own docs. It surfaces pages that look maintained but aren't: each was edited in the last four months, yet the median line is more than four and a half years old.
 
 [**Live dashboard →**](https://dochealth.streamlit.app/) &nbsp;·&nbsp; [Case study →](https://christopher-marshall.github.io/docs/projects/dochealth) &nbsp;·&nbsp; [Repo →](https://github.com/christopher-marshall/dochealth)
 
@@ -39,7 +39,7 @@ In the snapshot above, run on Docusaurus's own docs, it flags pages that look ma
 | Project | What I did |
 |---|---|
 | [**Shoreline**](https://christopher-marshall.github.io/docs/projects/shoreline) | Migrated 200+ pages from Freshdesk to Docusaurus in under 12 months, restructuring the content along Diátaxis lines. Cut onboarding time from weeks to hours. |
-| [**super.AI**](https://christopher-marshall.github.io/docs/projects/superai) | Wrote ML data-platform docs from scratch: 100+ pages, including an API reference covering 30+ endpoints, video guides, concept pages, and getting started guides. |
+| [**super.AI**](https://christopher-marshall.github.io/docs/projects/superai) | Wrote ML data-platform docs from scratch: 100 pages, including an API reference covering 30 endpoints, video guides, concept pages, and getting started guides. |
 | [**Adjust Help Center**](https://christopher-marshall.github.io/docs/projects/adjust-help-center) | Built the client-facing help center in Salesforce and the style standards behind it. |
 | [**Adjust features**](https://christopher-marshall.github.io/docs/projects/adjust-new-features) | Documented 10 major and 50+ minor releases, plus UI copy. |
 
