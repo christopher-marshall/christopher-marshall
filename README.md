@@ -12,8 +12,6 @@
 
 I'm a technical writer with 10 years of experience in docs-as-code (Markdown, Git, CI/CD) and the [Diátaxis](https://diataxis.fr/) framework. I use SQL and Python to measure reader value, find what is missing, and know where to spend time improving documetation.
 
-Open to senior technical writing and knowledge management roles, especially in climate tech, AI, and mission-driven organizations.
-
 ## Featured: dochealth
 
 <a href="https://dochealth.streamlit.app/">
